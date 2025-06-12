@@ -1,0 +1,100 @@
+,texto,sentiment_label,sentiment_transformer,prediccion_gemini
+0,"Después de escribir durante algún tiempo en “Las dos orillas” por allá entre 2014 y 2015, vuelvo a las columnas de opinión mañana en el portal @CuartoDeHoraCol 
+Estaré todos los domingos. La columna de mañana se llama: “Los herederos”.  Invitados.",NEU,NEU,NEUTRAL
+1,"Transportaban el ÑÑ en aviones militares cuando el ministro de defensa era el expresidente de Fenalco Guillermo Botero.
+
+Echarle glifosato al campesino y llevar al narco en los aviones de las Fuerzas Armadas.",NEG,NEU,NEGATIVO
+2,"Hace poco Uribe propuso una amnistía general, lo mismo pero desde un punto de vista jurídico que es más grave. Lo hace para salvar a más de dos docenas de subalternos presos por su culpa. El perdón que propone Petro es social y no tiene que ver con sacar corruptos de la cárcel.",NEG,NEU,NEGATIVO
+3,"Palabras ante diputados y concejales del Centro Democrático 
+
+Parte 2 https://t.co/tHLvkUWwvR",NEU,NEU,NEUTRAL
+4,"Aquí está la tasa de homicidios en el Cauca en los últimos gobiernos para que veamos que ha pasado con la paz y la violencia en la región.
+
+Hacer trizas la paz, que lo hizo lo votantes del No y después el gobierno de ""hacer trizas la Paz"" trajo estas consecuencias que nosotros tratamos de cambiar.",NEG,NEU,NEGATIVO
+5,"Así se enterró a Alejandro Llinás de Colombia Humana, asesinado por narcos paramilitares de la Sierra de Santa Marta
+
+Alejandro fue marinero. Trabajó en la flota mercante grancolombiana
+
+Defensor de la Sierra
+
+Lo asesinó el interés por privatizar el  Tayrona para grandes hoteles https://t.co/r1jZxDI0WD",NEG,NEU,NEGATIVO
+6,"Acevedo, Huila, cafeteros esperanzados en el Fond de Estabilización y el Piso Social Mínimo.
+Agradecido con la solidaridad 
+Roger Toro, Alcaldía 
+MANUEL Macías, Gobernación 
+
+Ramón Duarte, Alcaldía de Suaza de https://t.co/bx8Mlqd2HY",POS,NEU,POSITIVO
+7,"Llegamos a Valledupar con @mindefensa, Cúpula de @FuerzasMilCol y @PoliciaColombia, donde adelantaremos un Consejo extraordinario de Seguridad. El mensaje es claro: seguiremos enfrentando con determinación a las estructuras criminales que pretenden atentar contra los colombianos. https://t.co/I03DSbzL8b",NEU,NEU,NEUTRAL
+8,Que le vaya muy bien.,POS,NEU,NEUTRAL
+9,"Murió Arcesio Sanabria, ex Diputado del Guaviare, siempre gratitud con él y toda la solidaridad con la familia",NEG,NEU,NEUTRAL
+10,El Gbno respondió que ya los alcaldes están facultados para diferir pagos de impuestos locales (Dcto de emergencia),NEU,NEU,NEUTRAL
+11,"Hoy queda en evidencia el enorme daño que el ministro de hacienda y las mayorías del Congreso le han hecho al país.
+
+Reducir los impuestos a las grandes corporaciones financieras, mineras y otros grandes capitales es un verdadero suicidio económico",NEG,NEU,NEGATIVO
+12,"En cuidados intensivos está el patrullero Jhon Fredys Rodríguez quien sufrió un ataque con explosivos a la entrada de la Universidad Nacional.
+
+No más violencia. Ni del estado contra la juventud, ni de la juventud entre sí, incluida la juventud uniformada.
+
+Buscamos la paz jóvenes, un pacto de no violencia para que la universidad sea espacio de conocimiento y libre expresión.",NEG,NEU,POSITIVO
+13,"Los #SacúdeteAlParque que entregamos hoy con @MinInterior, en los municipios de Astrea, La Jagua de Ibirico y Becerril, en Cesar, son espacios de Equidad, diseñados para la promoción de la cultura y el deporte en nuestra juventud, que benefician a más de 88.400 colombianos. https://t.co/4EpHnBpw4A",POS,NEU,POSITIVO
+14,"Estos datos son muy buenos para la economía colombiana. No solo logramos bajar dos puntos el desempleo nacional respecto a hace un año, casi a un dígito.
+La tasa de ocupación laboral creció tres puntos del 55 al 57% y creció la participación global de la población en la economía. https://t.co/AT9ojWzEE2",POS,NEU,POSITIVO
+15,"Mañana estaré con @IvanCepedaCast denunciando ante la @CIDH las chuzadas, los perfilamientos y la persecución de este gobierno a los opositores. Retransmitiré la audiencia por Facebook live a partir de las 10:00AM
+Si la justicia no funciona en Colombia la buscaremos afuera https://t.co/tGtm8RvoZR",NEG,NEU,NEGATIVO
+16,"Es obvio que los hijos de las víctimas quieran la JEP, si es la Justicia Especial para la Paz la que les permitirá saber quien y por qué mataron a sus padres y a sus hermanos",NEU,NEU,POSITIVO
+17,"Hay una gran diferencia entre tratar de mover las personas hacia una agenda de cambio y moverlas bajo la lógica de conservar el régimen, y detener el cambio
+
+Invito a las fuerzas de la coalición que convocó el partido verde a moverse hacia un programa para cambiar a Colombia.",NEU,NEU,POSITIVO
+18,"Contralor 
+@CarlosHernanR1 seguimos esperando respuesta al estado de las investigaciones por la pérdida de miles de millones de dólares en Ecopetrol.
+Colombia merece saber la verdad. Es la tercera vez que le pregunto.",NEG,NEU,NEGATIVO
+19,"Gracias @mariacebotero, @ConsueloLuzardo, @HeMallarino y Judy Henríquez por su mensaje a las mujeres colombianas. https://t.co/B3WO3ip5IR",POS,NEU,POSITIVO
+20,"Me pregunto ¿por qué el ministerio de cultura critica el derribo de la estatua de un genocida y no que dinamiten el hospital San Juan de Dios, que por ley es un monumento nacional a la historia, a la salud y a la vida?
+ https://t.co/vA3TLfdLR6",NEG,NEU,NEGATIVO
+21,"@JUANCOL058 Más bien explíqueme ud, qué puede hacer un congresista en oposición y en minoría para detener todo esto?",NEG,NEU,NEGATIVO
+22,"Lo que hizo Peñalosa fue intentar matar el metro subterráneo porque sabe que reemplaza sus buses de transmilenio, por ser mas eficiente y digno la ciudadanía.
+
+¿Se dejará la ciudadanía?",NEG,NEU,NEGATIVO
+23,"Esta es mi entrevista en ""The Economist"".
+
+https://t.co/Iq7w5Fdx8o",NEU,NEU,NEUTRAL
+24,"Encuentro con los colombianos: Apartadó. 
+Por una economía fraterna, por una democracia estable. https://t.co/feEsaNJHRr",NEU,NEU,POSITIVO
+25,"Al lado de nuestros candidatos asesinados, iba un tercero a quien trataron de asesinar también, WIlliam Montenegro, logro escapar y la mafia política local lo busca para acabar de asesinarlo.
+
+Le exijo a Ivan Duque proteja a nuestro compañero sobreviviente.",NEG,NEU,NEGATIVO
+26,Entrevista en La Hora de la Verdad https://t.co/z9L6O2joir,NEU,NEU,NEUTRAL
+27,"Con Fondo de Solidaridad Educativa beneficiamos a más de 600 mil estudiantes con pago de su matrícula y evitamos deserciones. Y con Agenda de Transformación Social queremos gratuidad en universidades públicas en estratos 1, 2 y 3, para lograr más equidad en educación superior. https://t.co/n1xE4ykyT4",POS,NEU,POSITIVO
+28,"El actual mandatario de Haití sería el determinador de la operación de asesinato.
+
+Nuestra política internacional ha quedado ligada a grupos de extrema derecha en el mundo, y principalmente en la Florida, estrechamente ligados al narcotráfico.",NEG,NEU,NEGATIVO
+29,"Guillermo Alfonso Jaramillo: gran opción para la alcaldía de Bogotá. Fue alcalde de Ibagué y salió sin escándalos de Corrupcion. Es leal al proyecto progresista y a Petro.
+Hombre confiable. 
+https://t.co/rMqTcx6G5v",POS,NEU,POSITIVO
+30,"#DebatesCaracolRadio
+Nos vemos a las 6:00 PM por Caracol Radio y por mis redes sociales en el Gran Debate con cabezas de lista al Senado.
+Estaré exponiendo las tesis y la agenda legislativa del Pacto Histórico.
+Los y las espero. 
+Favor RT https://t.co/TpRQA17jQj",NEU,NEU,NEUTRAL
+31,"Un saludo muy especial a La Estrella, Antioquia, por sus más de tres siglos de historia. Es conocido como el municipio verde de Colombia por su riqueza ambiental; tierra de gente amable, trabajadora que, en estos momentos difíciles, ha demostrado cultura ciudadana y resiliencia.",POS,NEU,POSITIVO
+32,"El presidiario ha desatado la violencia desde el Estado que controla, buscando su libertad. Sacrifica a todo un pueblo en su fin.
+
+Es por esto que la policía está matando",NEG,NEU,NEGATIVO
+33,"Por primera vez preguntan en una encuesta por el Pacto Histórico y resulta que les dio que es la primera fuerza política del país. Tendría más de 23 senadores.
+
+https://t.co/J71cyxv5ek",NEU,NEU,POSITIVO
+34,Firmado contrato de concesión de Puerto Antioquia; anuncian cierre financiero de Mar 1 - Valora Analitik https://t.co/Y9PKl4f0V9,NEU,NEU,NEUTRAL
+35,"#Petro90Días 
+—10 grupos armados están en cese unilateral al fuego. Buenaventura lleva dos meses en relativa Paz. 
+—En SEP y Oct disminuyó el asesinato de líderes sociales.
+—Se amplió territorio para 10 resguardos y se formalizaron 297.000 hectáreas para indígenas.
+Sigue 👇🏽",NEU,NEU,POSITIVO
+36,"Podemos hoy afirmar con seguridad, ante el informe del secretario de salud de Bogotá, fajardista, que no existe en realidad ningún plan para ampliar la capacidad hospitalaria frente al virus , ni tampoco estaban preparados para la detección masiva de la enfermedad.",NEG,NEU,NEGATIVO
+37,"Madrugada triste con la noticia del fallecimiento de Ismael Namen en Valledupar. Noble amigo y comprometido defensor de las tesis que compartíamos, nos deja de enorme vacío que en parte buscaremos compensar con su imborrable recuerdo",NEG,NEU,NEGATIVO
+38,"NOTICIA
+Hablé con Contralor @CarlosHernanR1 
+1-Instalaremos mesa técnica para revisar múltiples denuncias sobre billonario desfalco en Ecopetrol. 
+2-Abrió investigación por detrimento de 2.4 billones en venta de OIG Perú
+3-Está actuando contra directivos de Bioenergy!
+Nos escuchó https://t.co/VgTjR27oNS",NEU,NEU,POSITIVO
+39,"Se hicieron tres instalaciones modernas para dormitorios de habitantes de calle, la Akademia para su preparación, por primera vez se construyó vivienda de interés prioritario en la ciudad, se logró la reactivación de la construcción en el centro de la ciudad.",POS,NEU,POSITIVO
